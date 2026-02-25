@@ -1,0 +1,501 @@
+Customer_Age,Gender,Annual_Income,Browsing_Time_Minutes,Pages_Viewed,Previous_Purchases,Discount_Percentage,Product_Rating,Device_Type,Payment_Method,Purchase_Amount
+56,Male,25240,50,16,12,47,3.08,Mobile,Cash on Delivery,315.46
+46,Male,63221,30,18,30,28,2.79,Mobile,UPI,271.46
+32,Male,30478,38,6,40,32,3.23,Tablet,Debit Card,271.52
+60,Male,148055,51,5,10,9,1.66,Mobile,Debit Card,211.03
+25,Male,75645,4,16,3,49,3.45,Tablet,Credit Card,258.41
+38,Female,130698,1,13,33,39,2.45,Mobile,Credit Card,280.51
+56,Male,39262,8,5,37,20,4.59,Desktop,UPI,193.65
+36,Male,138831,29,13,45,27,1.68,Mobile,UPI,246.33
+40,Male,72796,55,17,3,10,3.03,Desktop,UPI,212.2
+28,Female,24432,39,18,37,33,3.39,Desktop,Cash on Delivery,266.99
+28,Female,115257,3,8,18,7,1.13,Desktop,Credit Card,135.53
+41,Male,84291,32,13,5,21,2.45,Desktop,Cash on Delivery,269.35
+53,Female,99104,10,19,33,7,3.93,Mobile,Credit Card,209.8
+57,Male,79399,10,3,17,48,4.28,Tablet,Credit Card,261.63
+41,Male,147600,19,24,12,14,2.25,Desktop,Debit Card,247.64
+20,Female,99714,46,8,40,16,4.19,Mobile,Credit Card,282.41
+39,Male,70428,34,2,22,22,4.87,Desktop,Credit Card,239.72
+19,Female,107731,33,8,18,23,4.43,Mobile,Cash on Delivery,266.4
+41,Female,145646,23,13,44,44,1.47,Mobile,Credit Card,373.95
+61,Male,20302,55,13,10,18,3.96,Mobile,Cash on Delivery,201.63
+47,Male,102558,28,1,0,4,2.28,Tablet,UPI,139.55
+55,Female,20055,32,6,23,31,4.95,Mobile,Credit Card,221.6
+19,Male,131317,50,24,6,43,2.94,Mobile,Credit Card,365.37
+38,Male,28717,7,19,24,0,1.49,Tablet,Cash on Delivery,88.18
+50,Male,147449,29,16,20,22,3.9,Tablet,UPI,269.88
+29,Female,48699,8,8,14,36,2.29,Mobile,Debit Card,194.15
+39,Female,93686,1,1,0,7,4.99,Tablet,UPI,140.76
+61,Male,87661,57,16,11,12,4.92,Desktop,Cash on Delivery,278.1
+42,Female,64247,55,9,6,7,3.62,Desktop,UPI,172.11
+44,Female,134049,3,13,14,22,1.52,Tablet,Cash on Delivery,196.62
+59,Female,36748,24,11,20,42,3.75,Tablet,Cash on Delivery,249.68
+45,Female,125113,23,13,18,0,1.37,Mobile,Debit Card,133.19
+33,Female,24621,59,21,28,44,1.12,Tablet,Credit Card,315.27
+32,Male,35034,8,10,24,23,4.29,Mobile,Cash on Delivery,184.05
+64,Male,131927,54,4,32,34,1.84,Desktop,Cash on Delivery,362.3
+61,Male,147858,57,6,48,23,2.52,Tablet,Debit Card,331.89
+20,Female,25126,47,7,31,16,4.89,Mobile,Cash on Delivery,203.61
+54,Female,25122,37,5,48,4,2.35,Mobile,Credit Card,159.87
+24,Male,38030,3,11,34,19,2.19,Desktop,Debit Card,185.64
+38,Female,102838,51,13,43,20,4.67,Tablet,Credit Card,353.99
+26,Male,104717,33,19,37,39,1.44,Desktop,Credit Card,283.94
+56,Male,75658,28,23,25,30,4.04,Mobile,Debit Card,248.63
+35,Male,58638,47,10,10,45,4.95,Mobile,Cash on Delivery,353.74
+21,Female,87067,8,10,34,35,4.61,Tablet,Credit Card,275.23
+42,Female,126476,34,11,7,10,3.61,Mobile,Credit Card,193.37
+31,Male,138033,35,21,45,14,2.26,Tablet,Credit Card,292.81
+26,Male,125977,32,7,13,18,2.02,Desktop,Credit Card,162.07
+43,Male,108869,24,18,9,6,4.28,Tablet,Debit Card,198.1
+19,Male,125186,14,4,1,27,4.52,Tablet,Debit Card,225.55
+37,Female,54674,32,2,45,42,3.1,Mobile,UPI,308.82
+45,Female,55854,56,14,8,4,1.98,Mobile,UPI,161.05
+64,Male,66271,46,13,2,4,1.45,Tablet,Credit Card,158.75
+24,Male,93688,43,12,20,29,1.35,Mobile,Cash on Delivery,241.34
+61,Female,58518,16,7,25,31,3.88,Mobile,Credit Card,234.17
+25,Female,131076,4,2,7,7,2.68,Mobile,Cash on Delivery,113.83
+64,Male,30267,52,13,47,9,4.62,Tablet,Credit Card,240.57
+52,Male,110825,37,14,1,37,3.96,Mobile,UPI,270.8
+31,Male,21062,54,17,5,46,1.77,Tablet,UPI,300.25
+34,Female,136664,21,9,27,31,3.46,Mobile,Cash on Delivery,295.0
+53,Female,70448,14,17,28,47,2.74,Desktop,Credit Card,287.53
+57,Female,115462,31,8,25,27,3.31,Mobile,Cash on Delivery,265.1
+21,Male,26229,55,2,24,16,3.95,Mobile,UPI,186.94
+19,Male,76793,48,24,11,30,4.22,Tablet,Credit Card,297.8
+23,Female,134813,18,13,4,7,4.37,Tablet,Credit Card,188.9
+59,Female,67915,7,3,33,39,2.02,Mobile,Cash on Delivery,279.67
+21,Male,24632,10,16,47,24,1.12,Desktop,Debit Card,176.68
+46,Female,124592,7,6,36,8,3.96,Mobile,Cash on Delivery,220.88
+35,Female,23596,33,19,14,1,1.43,Mobile,UPI,153.34
+43,Male,129779,23,7,43,14,2.26,Desktop,UPI,235.2
+61,Female,26168,21,10,35,49,1.02,Tablet,UPI,298.96
+51,Male,128099,19,9,14,2,3.73,Mobile,UPI,178.09
+27,Male,27561,48,2,42,48,1.67,Tablet,UPI,308.66
+53,Male,93794,19,15,47,35,3.62,Tablet,Debit Card,301.93
+31,Male,102152,36,5,22,3,4.97,Desktop,Credit Card,224.65
+48,Male,145036,29,22,5,13,1.29,Desktop,Cash on Delivery,239.85
+32,Male,144049,18,4,45,40,1.31,Tablet,Cash on Delivery,281.61
+25,Male,46734,2,20,49,40,2.36,Mobile,UPI,242.38
+31,Female,26371,1,4,43,24,4.47,Tablet,Cash on Delivery,186.93
+40,Male,138894,47,18,42,49,1.86,Mobile,UPI,375.95
+57,Male,46069,5,4,44,9,2.44,Mobile,Debit Card,141.46
+38,Female,99905,20,17,20,20,1.27,Desktop,Debit Card,235.4
+33,Female,32910,11,12,22,35,4.05,Mobile,Credit Card,219.71
+62,Female,93479,42,22,42,11,2.63,Mobile,Debit Card,262.58
+35,Male,97735,2,17,15,26,4.04,Tablet,Debit Card,223.43
+64,Female,101264,3,10,46,39,4.61,Desktop,Credit Card,310.4
+41,Male,43275,23,22,14,1,1.93,Mobile,Cash on Delivery,94.3
+43,Male,92274,55,1,24,12,4.23,Mobile,UPI,225.6
+42,Male,101449,12,22,35,31,1.24,Desktop,UPI,264.35
+62,Male,120776,20,24,10,30,4.6,Tablet,Cash on Delivery,310.39
+58,Female,80004,5,18,14,15,3.6,Desktop,Credit Card,171.46
+46,Female,82981,37,18,3,31,4.5,Desktop,Cash on Delivery,237.06
+32,Male,104659,38,14,20,31,1.0,Mobile,Debit Card,276.72
+62,Male,74553,30,15,12,33,1.68,Mobile,Credit Card,229.77
+18,Male,68447,9,12,21,10,2.56,Tablet,Credit Card,128.73
+42,Female,54529,34,4,18,9,2.52,Mobile,Credit Card,147.58
+24,Male,146394,53,3,33,14,1.91,Mobile,UPI,255.71
+26,Male,95703,44,20,13,16,2.53,Desktop,Cash on Delivery,230.66
+41,Female,96090,35,12,3,39,1.52,Mobile,Credit Card,216.23
+18,Female,37260,52,7,47,17,2.65,Tablet,Credit Card,262.47
+61,Male,132581,58,11,45,8,4.21,Desktop,Credit Card,320.89
+25,Female,23812,22,1,26,24,2.92,Tablet,Cash on Delivery,192.34
+41,Female,48024,44,6,28,39,1.07,Desktop,UPI,240.56
+28,Male,78656,24,15,46,13,2.69,Mobile,Debit Card,222.4
+34,Female,136148,17,15,27,24,1.11,Desktop,UPI,238.94
+25,Male,47285,10,19,34,49,4.86,Desktop,Credit Card,325.02
+52,Female,112436,30,11,7,21,1.51,Mobile,UPI,223.08
+52,Male,136421,56,23,15,29,3.83,Mobile,UPI,326.83
+50,Male,21605,59,2,41,19,4.89,Tablet,Debit Card,260.04
+22,Male,91158,46,14,35,20,4.3,Tablet,Cash on Delivery,296.72
+59,Female,92303,23,2,29,43,3.8,Mobile,Cash on Delivery,315.57
+56,Male,47139,32,4,17,31,4.36,Mobile,UPI,250.66
+58,Female,97149,17,17,1,45,4.93,Mobile,UPI,309.36
+45,Male,76138,50,3,48,48,3.49,Desktop,Cash on Delivery,357.25
+24,Male,138205,51,13,12,20,3.24,Desktop,Cash on Delivery,306.61
+26,Female,96125,17,9,3,34,3.51,Desktop,Debit Card,240.46
+25,Male,33918,14,7,25,31,3.13,Mobile,Credit Card,189.04
+29,Male,105655,9,15,24,29,3.54,Tablet,UPI,275.59
+51,Female,47446,40,23,29,38,2.8,Mobile,Cash on Delivery,320.48
+50,Male,144040,2,11,10,48,1.87,Desktop,UPI,262.86
+40,Male,33046,45,20,6,11,1.48,Desktop,UPI,169.43
+41,Male,149922,25,2,30,40,1.27,Mobile,Cash on Delivery,291.09
+54,Male,44818,39,15,43,46,2.05,Mobile,Debit Card,330.27
+52,Female,120894,9,14,9,17,1.18,Desktop,UPI,179.49
+61,Female,135751,54,20,38,20,3.27,Desktop,Debit Card,333.4
+57,Male,24324,22,22,12,12,2.14,Desktop,Cash on Delivery,194.96
+39,Female,96323,43,11,30,20,4.3,Mobile,Credit Card,295.09
+44,Male,29111,46,3,6,7,1.3,Desktop,Credit Card,134.57
+52,Female,58110,4,17,48,45,1.91,Desktop,UPI,299.58
+18,Male,36389,26,12,41,39,3.92,Tablet,Cash on Delivery,265.94
+52,Male,142177,58,24,41,45,3.4,Mobile,Debit Card,432.25
+54,Male,61427,29,21,35,6,1.26,Tablet,UPI,225.0
+64,Male,99579,45,15,19,22,4.51,Tablet,Cash on Delivery,276.83
+31,Male,48746,34,16,3,43,4.51,Desktop,Cash on Delivery,268.12
+20,Male,142883,23,5,6,31,2.32,Mobile,Debit Card,226.3
+18,Female,107886,37,20,0,10,2.36,Desktop,UPI,181.25
+22,Male,127141,11,6,43,21,4.96,Mobile,Cash on Delivery,240.58
+43,Female,20117,6,19,44,21,3.5,Tablet,Cash on Delivery,200.45
+31,Male,145808,18,5,41,42,3.13,Mobile,Cash on Delivery,288.29
+56,Female,132221,21,3,46,24,4.35,Desktop,Debit Card,274.62
+44,Female,104471,42,1,12,21,2.14,Desktop,UPI,234.08
+26,Female,132613,36,6,21,27,2.72,Desktop,UPI,247.55
+32,Male,33234,41,15,20,28,2.07,Mobile,UPI,267.2
+32,Male,149597,38,2,21,12,4.16,Tablet,UPI,248.81
+43,Female,123864,34,3,27,17,3.29,Tablet,Credit Card,255.84
+59,Male,73441,17,17,8,1,3.64,Mobile,Credit Card,132.06
+30,Female,20846,37,24,25,28,2.01,Desktop,UPI,265.11
+49,Male,30954,25,12,8,20,1.88,Tablet,Debit Card,143.54
+56,Female,99239,38,18,14,14,2.95,Desktop,Credit Card,248.72
+49,Female,133689,58,15,9,26,3.95,Mobile,Cash on Delivery,315.58
+21,Male,66514,12,12,23,49,3.1,Desktop,Credit Card,291.92
+47,Female,108236,23,16,41,30,1.13,Tablet,Cash on Delivery,247.61
+54,Male,117579,53,8,7,14,4.47,Tablet,UPI,231.49
+40,Female,148644,42,14,23,22,1.26,Desktop,Credit Card,283.47
+56,Female,26469,22,17,15,23,4.82,Mobile,Debit Card,196.47
+62,Male,50105,21,21,48,43,1.1,Desktop,Credit Card,305.42
+32,Male,62101,27,8,25,12,3.78,Mobile,Credit Card,164.01
+60,Male,84323,57,15,26,21,1.33,Desktop,Credit Card,282.12
+46,Female,111922,31,14,36,42,4.64,Tablet,UPI,321.41
+53,Male,78067,6,18,3,36,2.86,Mobile,Debit Card,235.28
+30,Female,69376,27,20,49,32,1.55,Mobile,Credit Card,298.0
+49,Female,65587,40,7,23,2,2.36,Mobile,Debit Card,150.06
+24,Male,56976,34,3,18,18,1.66,Tablet,UPI,189.33
+39,Male,124587,12,12,35,22,1.68,Desktop,Cash on Delivery,234.3
+45,Female,147534,45,21,38,28,4.79,Tablet,Credit Card,349.99
+19,Female,87584,57,24,9,29,2.78,Mobile,Debit Card,282.72
+59,Male,124537,53,3,24,38,4.16,Desktop,Debit Card,292.92
+62,Male,98477,7,20,17,43,3.56,Tablet,UPI,291.73
+23,Male,130911,10,14,18,46,3.71,Mobile,Credit Card,273.86
+45,Male,62533,45,15,35,24,1.53,Mobile,Cash on Delivery,259.97
+45,Male,21828,17,14,9,36,1.94,Tablet,Debit Card,197.35
+61,Female,21917,26,7,32,46,4.15,Tablet,Credit Card,295.44
+61,Female,40618,21,17,49,7,4.88,Tablet,Cash on Delivery,208.37
+37,Female,52254,28,12,4,41,2.05,Mobile,Debit Card,233.84
+47,Female,125292,58,20,46,15,2.09,Tablet,Debit Card,325.38
+28,Male,136714,46,4,48,7,2.89,Mobile,Cash on Delivery,259.56
+45,Male,67362,2,9,34,0,4.94,Tablet,Cash on Delivery,151.2
+42,Male,40128,54,6,43,43,2.08,Mobile,UPI,323.85
+56,Female,143781,43,16,33,4,2.63,Mobile,Credit Card,215.58
+50,Female,131281,1,22,32,2,4.57,Desktop,Credit Card,216.38
+18,Male,79383,51,22,20,0,1.01,Tablet,UPI,206.54
+44,Male,85545,53,21,16,3,1.16,Tablet,Debit Card,183.74
+30,Female,102180,36,21,21,39,3.42,Mobile,Cash on Delivery,318.61
+58,Female,107958,51,2,47,34,4.63,Mobile,Cash on Delivery,338.39
+20,Male,29865,26,24,36,31,1.96,Mobile,Cash on Delivery,255.04
+56,Male,22219,29,8,14,41,2.88,Desktop,Debit Card,245.89
+23,Female,59809,21,11,34,33,2.8,Desktop,Cash on Delivery,279.83
+25,Male,136748,11,13,27,42,2.89,Mobile,Cash on Delivery,319.81
+44,Male,25287,40,17,6,24,3.49,Tablet,UPI,194.5
+26,Male,146593,11,8,31,9,2.88,Tablet,Debit Card,211.24
+54,Female,54387,36,21,10,20,2.79,Desktop,Credit Card,249.67
+50,Female,28512,49,18,9,45,2.9,Desktop,UPI,306.29
+59,Female,21342,59,18,8,38,3.36,Mobile,UPI,314.19
+61,Female,83076,39,14,13,26,3.15,Tablet,Credit Card,293.38
+41,Female,128872,40,15,12,26,4.42,Mobile,UPI,311.51
+32,Female,39216,35,6,24,1,1.2,Desktop,Debit Card,132.89
+49,Female,137512,54,11,1,40,4.33,Tablet,Cash on Delivery,357.16
+49,Male,136682,34,13,34,47,4.38,Tablet,Debit Card,373.84
+41,Male,113070,55,1,6,12,2.14,Desktop,Credit Card,206.11
+58,Male,99767,47,6,20,8,2.85,Mobile,Credit Card,201.86
+29,Male,117829,24,9,17,35,2.75,Mobile,UPI,297.08
+56,Male,46614,54,8,2,21,1.87,Tablet,Debit Card,188.04
+19,Male,56258,22,11,41,41,2.59,Desktop,Debit Card,311.88
+20,Male,113789,5,22,38,25,1.18,Tablet,Credit Card,250.79
+54,Female,62078,56,19,40,11,2.11,Desktop,Debit Card,227.15
+34,Female,126288,33,24,48,16,4.27,Mobile,Credit Card,316.3
+19,Male,103524,58,9,10,13,2.14,Desktop,Debit Card,187.16
+19,Male,116573,36,17,38,13,4.27,Mobile,Debit Card,286.1
+45,Female,32219,47,12,23,33,3.13,Desktop,Debit Card,286.21
+40,Male,20235,20,14,45,19,4.52,Tablet,Credit Card,212.47
+54,Male,62929,19,15,18,10,3.3,Mobile,UPI,177.04
+49,Female,147309,35,16,3,15,1.12,Tablet,Debit Card,257.04
+50,Male,87444,52,22,25,30,3.7,Tablet,Credit Card,312.61
+18,Female,28567,43,22,37,5,1.18,Mobile,Credit Card,172.81
+36,Male,121834,17,20,41,18,2.8,Mobile,Debit Card,287.25
+19,Female,90792,59,1,31,36,4.72,Tablet,Debit Card,367.55
+61,Female,85441,45,10,38,3,1.66,Tablet,UPI,201.49
+43,Female,104555,43,8,44,46,2.56,Tablet,Credit Card,369.41
+49,Male,93698,34,18,45,3,3.92,Tablet,Credit Card,262.88
+23,Female,144450,9,1,35,19,4.53,Mobile,Cash on Delivery,217.18
+49,Male,137248,26,2,39,9,3.68,Mobile,Credit Card,212.52
+21,Male,25415,2,1,36,23,2.03,Tablet,UPI,174.82
+28,Male,56159,53,1,32,34,3.7,Desktop,Cash on Delivery,320.68
+34,Male,63925,9,9,35,25,2.19,Desktop,Cash on Delivery,213.62
+55,Female,146523,9,13,2,36,3.87,Mobile,Cash on Delivery,244.27
+41,Female,25951,40,1,8,37,4.82,Tablet,Debit Card,283.52
+22,Male,107388,17,13,7,20,3.89,Tablet,Debit Card,201.87
+51,Male,28007,1,20,32,39,4.45,Mobile,Credit Card,248.7
+23,Female,146730,25,22,5,38,1.01,Desktop,Cash on Delivery,291.81
+39,Male,61832,43,7,40,20,3.87,Desktop,UPI,287.2
+28,Female,78596,40,2,38,9,4.32,Desktop,Debit Card,236.18
+33,Male,141101,42,6,3,37,1.16,Mobile,UPI,280.05
+50,Male,50523,25,7,12,45,4.49,Desktop,UPI,280.33
+26,Female,108861,39,14,48,3,2.03,Mobile,Debit Card,228.7
+23,Male,144194,35,18,1,44,3.66,Mobile,Debit Card,341.56
+33,Female,106740,3,15,4,19,4.2,Tablet,Debit Card,141.08
+46,Male,35524,50,2,43,16,3.65,Desktop,Debit Card,226.93
+20,Male,149028,37,10,26,6,1.37,Mobile,Cash on Delivery,217.74
+37,Male,39282,44,23,31,3,3.39,Desktop,Cash on Delivery,188.72
+53,Female,43930,44,12,20,28,3.2,Desktop,Cash on Delivery,259.69
+36,Male,20077,51,17,7,13,4.6,Tablet,Cash on Delivery,209.85
+43,Male,125881,30,8,37,2,2.62,Desktop,Credit Card,235.65
+20,Male,145501,38,11,7,23,2.28,Tablet,Cash on Delivery,283.41
+36,Male,40611,34,3,49,36,4.0,Mobile,Debit Card,274.79
+37,Female,36984,12,6,2,15,2.65,Desktop,UPI,119.38
+49,Female,34060,19,9,43,3,3.58,Mobile,Cash on Delivery,158.45
+24,Male,102985,37,6,2,23,3.59,Desktop,Credit Card,217.26
+58,Female,104056,44,9,21,33,4.55,Mobile,Debit Card,309.63
+50,Male,145329,59,7,5,29,3.39,Desktop,UPI,286.9
+57,Male,63303,59,9,1,17,3.01,Desktop,UPI,197.84
+56,Male,79207,49,18,22,18,1.56,Desktop,Cash on Delivery,257.56
+35,Female,95046,17,12,43,30,1.46,Desktop,UPI,265.81
+57,Female,49287,10,8,1,18,1.62,Desktop,Cash on Delivery,110.96
+18,Female,113709,57,8,37,48,1.69,Desktop,Cash on Delivery,381.56
+28,Female,59711,55,18,16,45,3.55,Desktop,Debit Card,325.42
+45,Female,31954,49,20,34,18,3.96,Desktop,Debit Card,268.94
+42,Female,93340,47,15,33,21,3.12,Desktop,Credit Card,297.38
+40,Female,92101,12,7,22,23,4.32,Mobile,Debit Card,215.98
+48,Female,91520,16,11,29,44,4.97,Tablet,Debit Card,317.35
+47,Female,107062,24,20,7,11,4.28,Desktop,Cash on Delivery,203.4
+59,Male,122974,19,16,21,29,3.78,Tablet,Debit Card,268.06
+52,Female,38574,8,4,43,37,3.13,Desktop,Cash on Delivery,229.07
+24,Female,29184,31,6,35,30,2.8,Desktop,Cash on Delivery,218.16
+33,Female,39096,21,22,4,35,1.34,Mobile,Debit Card,214.71
+43,Female,87728,17,3,12,18,2.6,Mobile,Credit Card,138.79
+19,Female,54016,23,9,28,47,4.64,Tablet,Credit Card,290.68
+18,Female,31246,37,10,30,44,4.23,Mobile,UPI,295.73
+29,Female,65558,54,14,46,35,1.86,Mobile,UPI,315.46
+22,Female,138721,16,11,15,29,2.87,Tablet,Debit Card,244.23
+54,Female,38381,6,18,41,48,4.27,Mobile,Credit Card,298.86
+49,Female,147796,8,22,29,32,1.27,Desktop,Cash on Delivery,282.99
+26,Female,56455,25,12,15,17,2.55,Tablet,UPI,201.72
+58,Male,112263,18,23,11,48,4.41,Tablet,Cash on Delivery,317.44
+52,Male,24018,25,12,16,27,2.62,Desktop,UPI,175.84
+36,Female,31302,12,13,15,46,1.31,Mobile,Debit Card,207.91
+33,Female,87506,15,13,11,10,3.17,Tablet,Credit Card,157.41
+20,Male,61157,59,19,7,44,4.45,Tablet,UPI,334.94
+37,Female,74917,26,19,19,32,3.36,Desktop,Credit Card,251.46
+41,Male,112738,41,23,2,16,1.91,Desktop,Cash on Delivery,207.45
+50,Male,116646,45,14,15,5,2.54,Mobile,Debit Card,203.1
+41,Male,103122,26,4,29,3,2.8,Tablet,Credit Card,173.99
+28,Male,44519,47,13,44,19,3.32,Mobile,Debit Card,273.66
+25,Male,116809,32,8,22,47,4.04,Mobile,Credit Card,319.06
+53,Female,107487,10,23,27,46,1.4,Desktop,Cash on Delivery,290.88
+55,Male,76819,16,21,39,26,4.56,Tablet,Cash on Delivery,256.28
+57,Female,100910,7,23,4,14,1.05,Tablet,Debit Card,163.63
+37,Female,140430,17,19,19,5,2.48,Tablet,Cash on Delivery,179.35
+52,Male,91324,23,12,39,46,1.11,Desktop,UPI,311.52
+42,Male,25408,26,18,43,13,2.57,Desktop,Credit Card,168.29
+52,Female,79379,21,6,0,10,3.1,Desktop,Cash on Delivery,137.0
+42,Male,45053,22,18,29,38,3.05,Desktop,UPI,276.85
+46,Male,29446,58,19,20,8,1.66,Desktop,Debit Card,208.0
+35,Female,20922,7,22,19,25,3.58,Tablet,UPI,252.42
+63,Female,118723,14,5,5,15,1.18,Mobile,Debit Card,160.16
+35,Male,71356,15,24,21,4,4.05,Tablet,Debit Card,163.8
+19,Female,30789,53,9,17,9,4.79,Mobile,Credit Card,206.29
+52,Male,117720,7,3,7,49,2.36,Desktop,Credit Card,218.84
+33,Male,86656,9,10,38,2,3.07,Mobile,UPI,157.52
+58,Male,64028,51,19,31,12,2.52,Tablet,Credit Card,228.25
+53,Female,84484,48,3,32,42,1.03,Tablet,Credit Card,313.25
+50,Female,52154,8,22,15,48,2.54,Mobile,Credit Card,258.49
+21,Female,102870,50,15,11,29,4.17,Desktop,UPI,296.0
+50,Female,22336,59,1,37,44,3.38,Desktop,Cash on Delivery,299.16
+31,Female,123677,23,7,33,5,1.41,Tablet,Credit Card,213.82
+38,Male,87779,29,12,13,16,4.39,Mobile,Credit Card,212.46
+37,Male,39029,18,17,35,44,3.12,Desktop,UPI,322.37
+25,Male,79201,31,21,32,18,4.37,Desktop,Cash on Delivery,280.48
+24,Male,52265,30,24,22,41,3.32,Tablet,Credit Card,311.37
+20,Female,122916,52,20,49,34,3.24,Desktop,Debit Card,380.03
+34,Male,132250,39,5,44,45,1.42,Mobile,UPI,344.5
+50,Female,136553,35,4,1,25,1.67,Tablet,Credit Card,183.12
+29,Male,63872,18,12,40,4,4.89,Tablet,Credit Card,186.26
+39,Female,66197,59,20,20,28,1.91,Mobile,Debit Card,305.6
+39,Female,145733,42,24,1,36,4.91,Tablet,Debit Card,341.19
+63,Male,75180,39,18,26,19,3.13,Desktop,UPI,223.49
+47,Male,43710,17,17,8,48,1.54,Desktop,UPI,249.31
+55,Male,49486,14,19,0,20,1.4,Mobile,Debit Card,191.83
+55,Male,91907,31,9,10,9,1.84,Desktop,UPI,192.79
+62,Female,148876,24,4,2,4,4.7,Mobile,Debit Card,178.6
+25,Male,91895,35,21,22,35,2.66,Mobile,Credit Card,317.48
+44,Male,84435,44,2,25,5,2.58,Desktop,Debit Card,175.69
+44,Female,60631,45,4,3,25,2.25,Mobile,Debit Card,172.84
+51,Male,149038,34,2,17,3,1.59,Desktop,Cash on Delivery,156.33
+38,Male,121532,3,15,5,38,2.95,Tablet,Debit Card,276.02
+47,Male,40103,37,2,34,38,1.52,Tablet,Debit Card,244.07
+50,Male,84772,43,4,21,49,4.34,Mobile,Cash on Delivery,325.62
+45,Male,146108,40,6,42,34,2.48,Desktop,UPI,316.26
+64,Female,34382,26,7,14,0,2.5,Desktop,Cash on Delivery,150.07
+50,Male,104291,55,10,21,23,2.9,Tablet,Credit Card,310.36
+22,Male,121195,23,19,36,35,2.78,Tablet,Cash on Delivery,353.47
+36,Male,23756,44,19,41,5,4.98,Desktop,Credit Card,226.7
+21,Male,40609,39,22,11,40,3.18,Mobile,UPI,293.72
+52,Male,134074,15,12,46,45,1.35,Tablet,Cash on Delivery,286.9
+34,Female,36478,56,3,48,43,3.43,Mobile,Cash on Delivery,358.68
+61,Male,120978,49,13,41,30,1.61,Mobile,UPI,291.93
+45,Female,59666,4,18,37,19,1.12,Tablet,Credit Card,188.77
+47,Female,95683,29,8,17,23,4.88,Mobile,Cash on Delivery,223.6
+46,Male,119097,22,21,44,24,4.09,Mobile,Credit Card,288.47
+63,Male,144714,25,15,34,35,4.92,Desktop,Cash on Delivery,318.11
+23,Male,120420,13,1,29,20,2.91,Mobile,Debit Card,193.45
+52,Male,91315,18,3,23,29,3.13,Desktop,Cash on Delivery,213.78
+58,Female,97834,33,8,41,23,1.67,Tablet,UPI,238.35
+54,Male,146205,16,4,29,43,1.99,Tablet,UPI,305.47
+41,Male,34153,45,16,13,41,4.35,Desktop,Credit Card,276.58
+46,Male,129415,42,23,5,29,2.42,Tablet,Cash on Delivery,295.32
+63,Male,96325,44,10,2,21,4.31,Mobile,Credit Card,267.02
+48,Male,129701,2,12,15,27,3.84,Mobile,Credit Card,218.99
+52,Male,32999,55,14,6,6,1.71,Mobile,Debit Card,154.94
+50,Female,75318,35,14,13,34,3.03,Tablet,Debit Card,261.45
+38,Female,20814,42,2,8,27,3.71,Mobile,UPI,228.7
+49,Male,135033,34,23,14,13,1.94,Tablet,Credit Card,243.6
+40,Male,96077,30,5,20,9,4.32,Mobile,UPI,186.61
+50,Male,110474,59,5,34,15,3.18,Desktop,Cash on Delivery,281.01
+20,Female,22443,55,6,1,15,1.66,Tablet,Credit Card,146.48
+35,Male,95993,13,13,26,30,3.33,Tablet,Credit Card,261.62
+42,Female,95916,13,9,1,41,5.0,Mobile,Cash on Delivery,267.83
+59,Male,93319,18,22,34,24,1.6,Tablet,Cash on Delivery,240.3
+48,Male,145885,32,15,17,12,4.27,Tablet,UPI,233.27
+20,Male,129777,32,14,13,5,1.83,Desktop,UPI,172.05
+57,Male,37368,35,24,19,43,4.13,Desktop,Cash on Delivery,322.98
+63,Female,35328,59,7,17,8,3.94,Mobile,UPI,228.54
+41,Female,76942,39,20,9,44,2.2,Desktop,Cash on Delivery,289.02
+49,Male,111751,46,2,24,35,2.3,Mobile,Credit Card,294.84
+64,Male,119131,52,7,1,42,4.17,Mobile,Credit Card,278.72
+39,Female,47306,29,6,24,19,2.85,Mobile,Debit Card,181.76
+40,Female,105451,49,17,32,17,3.92,Tablet,Credit Card,288.2
+19,Female,59915,29,2,35,42,1.59,Desktop,Cash on Delivery,243.16
+44,Female,57219,53,3,30,20,4.41,Mobile,UPI,235.48
+59,Male,100879,44,5,13,3,3.84,Desktop,Debit Card,176.08
+19,Female,131939,57,5,0,49,4.63,Mobile,UPI,360.61
+43,Male,84644,16,1,45,32,1.53,Desktop,Cash on Delivery,229.88
+34,Female,80279,56,8,15,26,3.37,Desktop,Credit Card,225.07
+57,Female,73028,44,12,45,6,3.4,Mobile,Debit Card,190.1
+50,Female,124263,47,24,2,5,2.41,Tablet,Cash on Delivery,209.99
+26,Female,20126,57,4,34,14,2.83,Desktop,Debit Card,223.82
+60,Female,72329,10,13,40,17,1.15,Tablet,Debit Card,132.71
+56,Male,47632,30,23,5,31,3.98,Tablet,Credit Card,243.62
+46,Male,127099,25,15,24,10,3.2,Mobile,Cash on Delivery,211.32
+59,Female,85310,39,11,12,19,1.23,Mobile,UPI,234.62
+43,Female,129945,20,10,33,23,3.72,Mobile,Debit Card,253.07
+52,Male,75176,5,3,7,14,2.87,Desktop,Debit Card,137.85
+42,Female,139797,1,22,20,47,1.14,Mobile,UPI,294.62
+41,Female,106066,30,14,33,6,4.88,Mobile,Cash on Delivery,189.82
+30,Male,125500,49,16,3,20,4.8,Desktop,Debit Card,295.21
+24,Female,146413,3,10,24,41,3.05,Desktop,Debit Card,284.31
+53,Female,64327,45,10,14,25,1.37,Mobile,Debit Card,235.33
+62,Male,88904,14,12,3,43,4.02,Mobile,Cash on Delivery,340.78
+37,Male,23797,56,9,44,13,2.97,Mobile,Cash on Delivery,193.72
+18,Male,67882,30,1,11,36,2.21,Mobile,UPI,258.73
+25,Female,33718,50,5,31,20,2.97,Tablet,Cash on Delivery,223.01
+63,Male,54560,4,20,31,17,3.09,Tablet,Cash on Delivery,198.13
+33,Male,96589,18,8,27,4,3.25,Mobile,Credit Card,167.28
+31,Male,42116,37,11,12,2,2.76,Tablet,UPI,138.07
+29,Male,56244,25,12,30,22,3.42,Desktop,Debit Card,214.43
+40,Male,121721,48,1,13,25,4.67,Tablet,Cash on Delivery,278.75
+32,Male,21645,1,22,19,36,2.45,Tablet,Debit Card,181.28
+45,Female,67523,53,20,17,23,3.9,Mobile,Debit Card,296.67
+51,Female,144085,46,11,28,48,4.58,Tablet,Credit Card,378.12
+19,Male,137718,15,5,5,18,2.82,Tablet,Cash on Delivery,166.96
+49,Male,39256,9,15,31,24,2.77,Tablet,UPI,191.03
+40,Male,121376,15,5,28,20,3.41,Tablet,Cash on Delivery,246.03
+39,Female,120158,49,12,42,11,3.37,Desktop,Debit Card,263.97
+42,Female,73173,57,5,1,40,4.23,Mobile,UPI,302.76
+39,Female,57430,24,17,22,32,2.91,Mobile,Cash on Delivery,235.6
+39,Female,59282,4,17,18,49,4.98,Desktop,Debit Card,303.2
+59,Female,139719,12,24,30,3,1.24,Tablet,Debit Card,206.97
+23,Female,83374,59,12,4,41,1.01,Desktop,Credit Card,329.06
+32,Female,88244,58,24,18,6,3.56,Tablet,Credit Card,250.81
+60,Female,31694,37,15,33,21,2.19,Desktop,Credit Card,239.22
+54,Female,76264,37,15,9,32,1.96,Mobile,Debit Card,251.99
+50,Male,95060,43,6,24,16,2.25,Mobile,Cash on Delivery,249.25
+25,Male,117416,6,12,1,23,2.02,Mobile,Credit Card,167.73
+61,Male,77545,39,20,10,33,1.12,Tablet,Cash on Delivery,274.37
+61,Male,138195,56,18,49,27,4.89,Tablet,Credit Card,373.9
+22,Female,59224,46,14,30,42,1.88,Desktop,UPI,306.13
+56,Female,122516,24,2,14,40,3.94,Desktop,UPI,279.29
+21,Male,117945,11,9,8,38,4.05,Mobile,Credit Card,262.62
+23,Female,33224,13,5,22,21,4.72,Tablet,Debit Card,180.39
+62,Male,60738,34,20,18,48,1.12,Desktop,Credit Card,302.46
+49,Female,45150,25,1,8,16,4.49,Tablet,Credit Card,196.14
+47,Male,83731,7,23,34,33,3.11,Tablet,Debit Card,288.97
+64,Female,69688,52,3,20,5,3.53,Mobile,UPI,210.53
+52,Female,119929,4,6,8,45,3.58,Mobile,Cash on Delivery,249.25
+57,Male,128618,59,5,27,5,4.28,Tablet,Credit Card,235.22
+33,Female,93509,8,21,45,33,2.33,Tablet,Debit Card,296.16
+30,Male,28577,20,5,6,0,3.93,Tablet,Credit Card,118.31
+59,Male,28070,29,1,15,9,3.11,Tablet,Debit Card,165.09
+47,Male,146161,54,17,15,20,4.17,Mobile,Cash on Delivery,295.7
+36,Male,28666,53,19,32,4,4.96,Desktop,Cash on Delivery,227.24
+34,Female,77761,51,14,3,1,1.8,Mobile,UPI,135.19
+36,Female,141178,45,12,3,21,4.98,Desktop,Debit Card,270.64
+45,Female,56368,46,10,38,47,1.36,Tablet,Debit Card,337.32
+43,Male,26783,10,20,39,1,1.01,Desktop,UPI,118.96
+54,Female,131530,43,21,16,9,1.18,Mobile,UPI,243.07
+43,Male,61914,34,18,36,33,2.37,Mobile,Debit Card,280.05
+40,Female,90507,57,24,38,15,3.53,Tablet,UPI,311.13
+26,Female,147738,26,11,28,47,1.28,Mobile,Cash on Delivery,299.32
+29,Female,99026,41,2,35,38,1.02,Tablet,Credit Card,282.92
+18,Male,135893,49,18,37,21,4.75,Mobile,Cash on Delivery,272.52
+18,Female,131255,58,7,38,11,4.29,Mobile,UPI,284.39
+64,Female,130616,3,24,49,23,4.24,Tablet,Debit Card,255.4
+51,Male,87526,56,15,36,46,4.54,Desktop,Debit Card,408.48
+49,Female,90835,6,11,34,39,3.8,Mobile,Cash on Delivery,287.77
+42,Male,65765,5,18,6,37,1.42,Desktop,Debit Card,218.12
+57,Female,39956,5,23,26,9,2.6,Mobile,UPI,188.1
+62,Male,107895,54,12,27,34,3.89,Mobile,Cash on Delivery,313.27
+18,Male,66240,47,6,21,48,2.12,Mobile,Debit Card,340.97
+33,Female,141008,23,20,13,31,3.75,Mobile,Credit Card,309.75
+56,Male,57148,49,23,6,6,1.1,Desktop,Credit Card,179.54
+22,Male,114270,9,13,36,20,2.22,Desktop,UPI,244.75
+39,Male,147978,35,20,21,19,3.2,Mobile,Debit Card,258.56
+46,Male,24757,20,16,4,25,3.53,Mobile,UPI,172.99
+20,Male,39097,58,18,1,3,3.31,Desktop,Cash on Delivery,173.68
+29,Male,30395,49,10,26,45,3.79,Tablet,Credit Card,302.22
+43,Female,36241,59,23,20,21,1.02,Tablet,Cash on Delivery,228.69
+33,Male,123892,42,8,37,14,1.4,Desktop,Debit Card,265.81
+54,Male,47696,35,18,14,39,4.48,Mobile,UPI,285.77
+39,Female,135654,50,21,20,20,3.73,Mobile,UPI,313.18
+46,Female,90480,18,1,9,14,1.45,Tablet,UPI,130.13
+31,Female,66163,17,23,22,21,4.37,Tablet,Cash on Delivery,201.27
+45,Female,39816,24,8,38,27,1.97,Desktop,Credit Card,223.61
+22,Female,69840,3,6,4,13,2.91,Tablet,Cash on Delivery,86.07
+64,Female,122547,32,5,0,26,1.58,Desktop,Cash on Delivery,211.7
+47,Female,72853,35,15,12,40,3.84,Tablet,Debit Card,264.36
+63,Male,44917,38,22,20,39,3.67,Tablet,Debit Card,340.9
+22,Male,116731,13,15,25,27,1.84,Tablet,Debit Card,255.49
+29,Female,41566,56,2,49,25,4.45,Mobile,Credit Card,289.2
+33,Male,95452,47,1,44,48,2.61,Mobile,Credit Card,368.4
+43,Male,82823,25,23,20,1,2.17,Mobile,Debit Card,156.69
+43,Male,141392,9,23,17,24,1.61,Tablet,Debit Card,249.57
+38,Female,40806,4,11,36,2,2.06,Desktop,Credit Card,122.2
+56,Female,95520,14,10,44,7,1.09,Desktop,UPI,178.74
+53,Male,21759,37,18,31,43,3.33,Desktop,Credit Card,327.33
+50,Female,146092,34,18,35,32,4.37,Desktop,Credit Card,356.4
+47,Male,61949,11,17,16,41,3.2,Mobile,Credit Card,261.45
+54,Male,112374,41,8,34,34,1.88,Mobile,Debit Card,262.19
+40,Male,22482,56,15,48,5,1.13,Tablet,UPI,189.94
+27,Male,44442,3,8,10,38,1.86,Tablet,Credit Card,184.87
+22,Female,53719,59,17,20,22,2.66,Desktop,Debit Card,267.83
+53,Female,78066,28,12,25,24,4.04,Mobile,Cash on Delivery,224.83
+51,Female,113501,29,8,3,49,1.75,Desktop,Cash on Delivery,332.58
+48,Male,22079,9,14,33,42,3.88,Tablet,Credit Card,287.27
+27,Female,22717,3,4,47,18,4.47,Tablet,Cash on Delivery,191.0
+36,Male,79676,25,1,17,4,2.82,Desktop,UPI,141.38
+49,Female,47952,34,1,39,10,4.29,Tablet,Cash on Delivery,192.43
+18,Male,106444,12,19,34,11,3.22,Desktop,Cash on Delivery,196.18
+22,Male,62460,42,16,40,9,3.55,Mobile,UPI,238.28
+62,Male,110397,9,14,28,7,3.11,Desktop,Credit Card,187.55
+21,Female,92847,15,21,28,23,2.85,Mobile,Credit Card,217.19
+33,Female,113607,40,16,37,27,1.94,Mobile,UPI,300.29
+41,Female,109106,25,5,41,40,2.21,Tablet,UPI,290.25
+33,Female,38449,5,9,20,35,2.16,Tablet,UPI,157.17
+19,Male,53536,11,2,41,36,3.25,Tablet,Cash on Delivery,219.76
+45,Female,84077,59,18,12,20,1.48,Desktop,UPI,247.47
+49,Female,58258,34,6,48,7,4.67,Desktop,Debit Card,255.18
+44,Male,68302,24,9,40,8,3.88,Tablet,Cash on Delivery,210.08
+37,Male,145937,15,1,16,46,2.61,Desktop,Credit Card,254.06
+41,Male,48865,38,9,8,14,1.63,Tablet,Credit Card,177.05
+29,Female,26645,8,16,40,47,4.53,Desktop,Credit Card,260.68
+52,Male,139771,59,13,0,45,4.3,Mobile,Cash on Delivery,384.04
+50,Male,58000,5,9,1,39,3.89,Mobile,Debit Card,202.18
